@@ -1,0 +1,9 @@
+# old_version markdown
+old_version/
+
+# DS_STORE
+.DS_STORE
+
+# Setting File
+.vscode
+.idea
